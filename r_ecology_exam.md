@@ -1,11 +1,9 @@
-> #### Giulia Condorelli
->> ##### matricola n. 1185693
-
-# Analisi dell’Impatto dei Pascoli sulla Vegetazione del Campo Imperatore (2015-2025) 🐄
-
+# Vegetation Response to the 2022 Extreme Heat and Drought in Chongqing China
+### Spatial_Ecology_in_R - 2025
+#### Wei Gao
 ---
 
-# 📌 Introduzione
+# Introduzione
 
 Il progetto **LIFE PRATERIE** (LIFE11/NAT/IT/234) propone la conservazione a lungo termine delle **praterie e dei pascoli** nel territorio del **Parco Nazionale del Gran Sasso e Monti della Laga**, con particolare attenzione all’equilibrio tra **attività produttive** (come il pascolo estensivo) e **tutela ambientale**.
 
