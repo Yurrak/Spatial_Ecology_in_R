@@ -3,7 +3,6 @@
 #### Wei Gao
 #### July 23, 2026
 
-------------------------------------------------------------------------
 
 Introdution
 -----------
@@ -46,6 +45,7 @@ NDVI across four years (2020, 2021, 2022, and 2024). This analysis
 evaluates whether vegetation conditions in 2022 represent a significant
 anomaly relative to non-drought reference years and assesses the spatial
 extent of vegetation recovery by 2024.
+
 
 ------------------------------------------------------------------------
 
