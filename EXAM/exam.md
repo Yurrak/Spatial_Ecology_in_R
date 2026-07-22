@@ -1,11 +1,7 @@
----
-title: "Vegetation Response to the 2022 Extreme Heat and Drought in Chongqing China"
-output: html_document
-author: "Wei Gao"
-date: "July 23, 2026"
----         
-
-#### Spatial Ecology in R 2025
+# Vegetation Response to the 2022 Extreme Heat and Drought in Chongqing China
+### Spatial Ecology in R 2025
+#### Wei Gao
+#### July 23, 2026
 
 ------------------------------------------------------------------------
 
