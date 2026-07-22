@@ -1,3 +1,10 @@
+---
+title: "Vegetation Response to the 2022 Extreme Heat and Drought in Chongqing China"
+output: html_document
+author: "Wei Gao"
+date: "July 23, 2026"
+---         
+
 #### Spatial Ecology in R 2025
 
 ------------------------------------------------------------------------
@@ -202,7 +209,7 @@ False color (NIR, Red, Green) display highlights vegetation in red
 The Difference Vegetation Index (DVI) is one of the simplest and
 earliest vegetation indices, calculated as the arithmetic difference
 between near-infrared (NIR) and red reflectance as below . :  
-$\` DVI = NIR - Red \`$  
+$\ DVI = NIR - Red \$  
 It directly measures the contrast between high NIR reflectance and low
 red reflectance characteristic of healthy green vegetation, without
 normalization.
@@ -234,7 +241,7 @@ The Normalized Difference Vegetation Index (NDVI) is a widely used
 metric for quantifying the health and density of vegetation using sensor
 data. It is calculated as:
 
-$\` NDVI = \\frac{(NIR - Red)}{(NIR + Red)} \`$
+$\ NDVI = \\frac{(NIR - Red)}{(NIR + Red)} \$
 
 The resulting values range from -1 to 1. <br> Typical NDVI value ranges
 are: <br> Water bodies: -0.1 to 0.1; <br> Bare soil, rock, or urban
